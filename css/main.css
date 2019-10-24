@@ -1,5 +1,7 @@
 .no-point-ul {
     list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 .text-size {
     width: 1em;
