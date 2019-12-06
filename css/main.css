@@ -7,3 +7,11 @@
     width: 1em;
     height: 1em;
 }
+
+.slick-prev:before,
+.slick-next:before {
+    color: #000;
+}
+.slider {
+    display: block;
+}
