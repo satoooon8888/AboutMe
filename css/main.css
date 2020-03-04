@@ -12,6 +12,9 @@
 .slick-next:before {
     color: #000;
 }
+.slider-parent {
+    width: 100%
+}
 .slider {
-    display: block;
+    margin: 0 auto;
 }
